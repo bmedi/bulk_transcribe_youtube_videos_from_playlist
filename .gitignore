@@ -173,3 +173,4 @@ folder_of_source_documents__converted_to_plaintext
 generated_transcript_metadata_tables
 generated_transcript_combined_texts
 downloaded_audio
+.DS_Store
